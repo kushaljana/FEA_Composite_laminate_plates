@@ -1,1 +1,1 @@
-# FEA_Composite_laminate_plates
+ENSAM CASABLANCA  ENSAM Sciences et Technologies  --  A code for the linear static and modal analysis of laminate composite plates using the Kirchoff-Love theory of thin plates and the lmainate composites theory. The supported geometry is a rectangular plate with or without one hole. --  TIBA Azzeddine  -  2020
